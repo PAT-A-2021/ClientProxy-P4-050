@@ -1,0 +1,7 @@
+D:\C# VSCODE2019\PAT\ClientProxy-P4-050\ClientProxy-P4-050\bin\Debug\ClientProxy-P4-050.exe.config
+D:\C# VSCODE2019\PAT\ClientProxy-P4-050\ClientProxy-P4-050\bin\Debug\ClientProxy-P4-050.exe
+D:\C# VSCODE2019\PAT\ClientProxy-P4-050\ClientProxy-P4-050\bin\Debug\ClientProxy-P4-050.pdb
+D:\C# VSCODE2019\PAT\ClientProxy-P4-050\ClientProxy-P4-050\obj\Debug\ClientProxy-P4-050.csproj.AssemblyReference.cache
+D:\C# VSCODE2019\PAT\ClientProxy-P4-050\ClientProxy-P4-050\obj\Debug\ClientProxy-P4-050.csproj.CoreCompileInputs.cache
+D:\C# VSCODE2019\PAT\ClientProxy-P4-050\ClientProxy-P4-050\obj\Debug\ClientProxy-P4-050.exe
+D:\C# VSCODE2019\PAT\ClientProxy-P4-050\ClientProxy-P4-050\obj\Debug\ClientProxy-P4-050.pdb
